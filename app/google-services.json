@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1020962130429",
+    "firebase_url": "https://covidtracker-394ff.firebaseio.com",
+    "project_id": "covidtracker-394ff",
+    "storage_bucket": "covidtracker-394ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020962130429:android:d3d6fee358287b679fb194",
+        "android_client_info": {
+          "package_name": "com.worldhelper.covidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020962130429-ssh7jj12qddi1kohq93qcdtnqpdaitu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.worldhelper.covidtracker",
+            "certificate_hash": "7f5357c430cf7584aa27ecd8e762715b212acccb"
+          }
+        },
+        {
+          "client_id": "1020962130429-tge61ge4q6fhu763valpjt8233e5bc7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0UvIlawfeyWd3B0Wpoui5xtlYLECkaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020962130429-tge61ge4q6fhu763valpjt8233e5bc7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
